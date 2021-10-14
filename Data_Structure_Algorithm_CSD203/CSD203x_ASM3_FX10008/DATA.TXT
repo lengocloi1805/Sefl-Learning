@@ -1,0 +1,6 @@
+ID, Name, DayofBirth, Birthplace
+2, Loi, 06/01/2000, QB
+3, Mai, 01/01/2001, ĐN
+1, Minh, 03/01/2000, QB
+5, Nam, 04/01/2000, BG 
+4, Thien, 01/01/2001, SG

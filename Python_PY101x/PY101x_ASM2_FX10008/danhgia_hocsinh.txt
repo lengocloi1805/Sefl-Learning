@@ -1,0 +1,6 @@
+“Ma HS”, “xeploai_TB chuan”, “xeploai_A”, “xeploai_A1”, “xeploai_B ”, “xeploai_C”, xeploai_D”
+Nguyễn Văn A;Kha;1; 1; 2; 1; 2
+Nguyễn Văn B;Gioi;1; 1; 1; 1; 1
+Nguyễn Văn C;TB;4; 3; 3; 4; 4
+Nguyễn Văn D;Kha;2; 2; 2; 1; 2
+Nguyễn Văn E;TB;3; 3; 3; 2; 3

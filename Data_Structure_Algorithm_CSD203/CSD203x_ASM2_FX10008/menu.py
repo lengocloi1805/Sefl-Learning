@@ -1,0 +1,27 @@
+menu = menu = ''' +-------------------Menu------------------+
+
+1. Load data from file and display
+
+2. Input & add to the end.
+
+3. Display data
+
+4. Save product list to file.
+
+5. Search by ID
+
+6. Delete by ID
+
+7. Sort by ID.
+
+8. Convert to Binary 
+
+9. Load to stack and display
+
+10. Load to queue and display.
+
+Exit:
+
+0. Exit
+
++-----------------------------------------.+ '''
